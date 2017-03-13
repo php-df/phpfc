@@ -9,3 +9,9 @@ Se você gosta de Cerveja, Tecnologia ou PHP, está convidado a participar do no
 Nossa intenção é trazer interação entre diversas pessoas da área de qualquer nível técnico e o melhor de GRAÇA.
 
 Para acompanhar nossos eventos você pode clicar [aqui](https://www.meetup.com/pt-BR/php-df/) !
+
+### Log
+
+Confira nosso histórico de eventos:
+* [PHPFC XV](XV/Readme.md)
+* [PHPFC XIV](XIV/Readme.md)
