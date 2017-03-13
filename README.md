@@ -13,5 +13,5 @@ Para acompanhar nossos eventos você pode clicar [aqui](https://www.meetup.com/p
 ### Log
 
 Confira nosso histórico de eventos:
-* [PHPFC XV](XV/Readme.md)
-* [PHPFC XIV](XIV/Readme.md)
+* [PHPFC XV](./2017/XV/Readme.md)
+* [PHPFC XIV](./2017/XIV/Readme.md)
