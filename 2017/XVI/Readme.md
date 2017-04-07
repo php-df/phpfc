@@ -9,9 +9,8 @@ Lembrar que o PHPFC é no Espaço Multiplicidade, nosso maior parceiro !!!
 Esse mês teremos:
 
 
+#### 1. GraphQL - Parte 2, o retorno !!! Tchau REST - rest in peace :-)
 ```
-1. GraphQL - Parte 2, o retorno !!! Tchau REST - rest in peace :-)
-
 O que é o GraphQL e porque é uma tecnologia tão promissora.
 
 Suas vantagens sobre o REST.
@@ -22,8 +21,8 @@ Dependendo do tempo disponível, a parte prática será extendida.
 
 Palestrante: Bruno Reis
 ```
+#### 2. JWT - Json Web Token 
 ```
-2. JWT - Json Web Token 
 JWT é um padrão aberto baseado em JSON que cria créditos ou direitos para um certo perfil de acesso em um servidor.
 
 Os tokens são designados para serem compactos, compatíveis com URLs e usáveis especialmente em contextos de SSO (single sign on) em navegadores. 
