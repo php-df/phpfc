@@ -20,3 +20,4 @@ Confira nosso histórico de eventos:
 * [PHPFC XV](./2017/XV/Readme.md)
 * [PHPFC XIV](./2017/XIV/Readme.md)
 * [PHPFC XVI](./2017/XVI/Readme.md)
+* [PHPFC XVII](./2017/XVII/Readme.md)
